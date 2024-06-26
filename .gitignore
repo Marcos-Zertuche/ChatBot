@@ -1,1 +1,7 @@
 venv/
+venv
+
+my-chatbot/node_modules
+
+
+.env
