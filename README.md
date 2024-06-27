@@ -12,7 +12,6 @@ How to set up the chat bot:
 $ python -m venv venv
 $ source venv/bin/activate
 (venv) $ python pip install openai
-
 ```
 
 
